@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @erplate
 - 👀 I’m interested in programming, interesting tasks
-- 🌱 I’m currently learning Python,JavaScript,ethical hacking.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python,JavaScript,ethical hacking. 
+- 📫 How to reach me Vk.com/erplate
 
 <!---
 erplate/erplate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

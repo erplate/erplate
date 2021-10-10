@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erplate
 - 👀 I’m interested in programming, interesting tasks
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,JavaScript,ethical hacking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
